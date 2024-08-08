@@ -1,1 +1,14 @@
-author|[>]|infofintech|[1]|host|[>]|https://github.com|[1]|avatar|[>]|chess|[1]|version|[>]|1.1|[1]|branch|[>]|main|[1]|born|[>]|2023|[1]|description|[>]|A basic WebVR roller coaster app.|[1]|title|[>]|Rollercoaster WebVR|[1]|type|[>]|HTML5 Web App|[1]|favicon|[>]|rollercoaster.icon.png|[1]|run|[>]|rollercoaster.htm|[1]|files|[>]|LICENSE;UnityLoader.js;manifest.webmanifest;motion-controllers.png;mousedrag.png;privacy.html;rollercoaster.htm;rollercoaster.icon.png;small-square-virtual-reality-rollercoaster-screenshot.png;sw.js;telemetry.js;test-build-4.asm.code.unityweb;test-build-4.asm.framework.unityweb;test-build-4.asm.memory.unityweb;test-build-4.data.unityweb;test-build-4.json;test-build-4.wasm.code.unityweb;test-build-4.wasm.framework.unityweb;virtual-reality-rollercoaster-screenshot.png;vr.ico;vr.png;vrrollercoaster.app-sitemap.xml;
+{
+    "author": "infofintech",
+    "host": "https://github.com",
+    "version": "1.2",
+    "branch": "main",
+    "initial_release": "2023-09-07",
+    "initial_version": "1.1",
+    "description": "A basic WebVR roller coaster app.",
+    "title": "Rollercoaster WebVR",
+    "type": "HTML5 Web App",
+    "favicon": "rollercoaster.icon.png",
+    "run": "rollercoaster.htm",
+    "files": "LICENSE;UnityLoader.js;manifest.webmanifest;motion-controllers.png;mousedrag.png;privacy.html;rollercoaster.htm;rollercoaster.icon.png;small-square-virtual-reality-rollercoaster-screenshot.png;sw.js;telemetry.js;test-build-4.asm.code.unityweb;test-build-4.asm.framework.unityweb;test-build-4.asm.memory.unityweb;test-build-4.data.unityweb;test-build-4.json;test-build-4.wasm.code.unityweb;test-build-4.wasm.framework.unityweb;virtual-reality-rollercoaster-screenshot.png;vr.ico;vr.png;vrrollercoaster.app-sitemap.xml;"
+}
